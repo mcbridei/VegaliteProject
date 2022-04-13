@@ -1,4 +1,4 @@
-id,locationId,name,status,address/street,address/city,address/state,address/zip,address/countryId,address/country,address/regionId,address/region,gps/latitude,gps/longitude,dateOpened,stallCount,counted,elevationMeters,powerKilowatt,solarCanopy,battery,statusDays,urlDiscuss,hours
+id,locationId,name,status,addressstreet,addresscity,addressstate,addresszip,addresscountryId,addresscountry,addressregionId,addressregion,gpslatitude,gpslongitude,dateOpened,stallCount,counted,elevationMeters,powerKilowatt,solarCanopy,battery,statusDays,urlDiscuss,hours
 2215,dangjinsupercharger,"Dangjin, South Korea",OPEN,충남 당진시 송악읍 송악로 63,당진,48,,137,South Korea,102,Asia Pacific,36.909503,126.69407466,2019-12-20,6,true,42,120,false,false,0,false,
 2216,seoulgangseosupercharger,"Seoul - Gangseo, South Korea",OPEN,서울특별시 강서구 하늘길 38,서울,,,137,South Korea,102,Asia Pacific,37.563265,126.803108,2019-12-20,4,true,13,120,false,false,0,false,
 3844,brestfrsupercharger,"Brest, France",CONSTRUCTION,"Les Portes De Brest,105 Rue Pierre Jakez Helias",Guipavas,,29490,110,France,101,Europe,48.416667,-4.436329,,12,true,62,250,false,false,146,true,
